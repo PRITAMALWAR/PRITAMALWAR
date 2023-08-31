@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
-<h3 align="center">I’m learning MERN Development</h3>
+<h3 align="center">I’m learning MERN-Stack Development</h3>
 
 - 🌱 I’m currently learning **javascript (DOM) and Git & github**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
