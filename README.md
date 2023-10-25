@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.newus.in/image/full-stack-program-image.gif">
 
-- 🌱 I’m currently learning **Advance Javascript and Git & github**
+- 🌱 I’m currently learning **React js**
 
 <p align="left">
 </p>
