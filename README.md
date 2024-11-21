@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam</h1>
-<h3 align="center">I’m learning MERN-Stack Development</h3>
+<h3 align="center">I’m learning front-end Development</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.newus.in/image/full-stack-program-image.gif">
 
