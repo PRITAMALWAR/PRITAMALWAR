@@ -1,13 +1,27 @@
-<h1 align="center">Hi 👋, I'm Pritam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Pritam
 
-- 🌱 I’m currently learning **React js and DSA**
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 📫 How to reach me **thepritamverma@gmail.com**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/pritam-verma-45830328b//)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thepritamverma@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+
+A passionate frontend developer from India
+
+### 🖥 Skills
+
+- Frontend Developer
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Html-05122A?style=flat-square&logo=Html&color=353535) ![Bootstrap](https://img.shields.io/badge/-Css-05122A?style=flat-square&logo=Css&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-tailwind%20Css-05122A?style=flat-square&logo=tailwind-Css&color=353535) ![Bootstrap](https://img.shields.io/badge/-React%20js-05122A?style=flat-square&logo=React-js&color=353535) ![Bootstrap](https://img.shields.io/badge/-Chakra%20Ui-05122A?style=flat-square&logo=Chakra-Ui&color=353535) ![Bootstrap](https://img.shields.io/badge/-TypeScript%20Basic-05122A?style=flat-square&logo=TypeScript-Basic&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+</div>
+
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
