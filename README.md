@@ -12,13 +12,6 @@
 
 <a target="_blank" href="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" style="display: inline-block;"><img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" alt="tailwind" width="100" height="42" /></a></p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/PRITAMALWAR" />
-  
-  <br/><br/><br/>
-</div>
 
 
 <h2>⚡️ Where to find me</h2>
