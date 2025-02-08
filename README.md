@@ -83,10 +83,9 @@ Passionate Front-End Developer honing skills at Masai School, specializing in HT
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PRITAMALWAR/PRITAMALWAR/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Pritam/Pritam/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
-  <a href="https://github.com/PRITAMALWAR" target="_blank">Visit PRITAMALWAR's GitHub</a>
+
 </div>
 
 
