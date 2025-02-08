@@ -59,12 +59,12 @@ Welcome to my GitHub! I'm Pritam, a frontend developer with a passion for creati
 </a>
 ---
 
-### 📬 Find Me:
-
-Let's connect! You can find me on:
-
-- **[LinkedIn](https://www.linkedin.com/in/pritam-verma-45830328b/)**  ![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)
-
+<h2>⚡️ Where to find me</h2>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/pritam-verma-45830328b/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
+</p>
 ---
 
 ### 🔥 Visitor Count:
