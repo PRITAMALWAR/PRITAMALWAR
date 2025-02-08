@@ -62,7 +62,7 @@ Skilled **Front-End Developer** with expertise in **HTML**, **CSS**, **JavaScrip
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
----
+--
 
 <div align="center">
   <hr/>
