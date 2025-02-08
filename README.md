@@ -4,26 +4,6 @@
 
 Welcome to my GitHub! I'm Pritam, a frontend developer with a passion for creating beautiful and functional web applications.
 
----
-
-### 📊 GitHub Stats:
-
-![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
----
-
-### 🏆 GitHub Streak:
-
-![Pritam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRITAMALWAR&theme=dark&hide_border=false)
-
----
-
-### 🌐 Top Languages:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ### 👨‍💻 Languages & Tools I Use:
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -66,11 +46,25 @@ Welcome to my GitHub! I'm Pritam, a frontend developer with a passion for creati
   </a>
 </p>
 ---
+---
 
-### 🔥 Visitor Count:
+### 📊 GitHub Stats:
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=PRITAMALWAR&icon=0&color=0)
+![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
+
+### 🏆 GitHub Streak:
+
+![Pritam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRITAMALWAR&theme=dark&hide_border=false)
+
+---
+
+### 🌐 Top Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 
 Thanks for stopping by! Feel free to explore my projects and don't hesitate to reach out if you want to collaborate or chat. 🚀
