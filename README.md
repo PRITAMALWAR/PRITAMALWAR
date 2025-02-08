@@ -3,6 +3,7 @@
 </h1>
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ## About Me
 <br/><br/><br/>
 Welcome to my GitHub! I'm Pritam, a frontend developer with a passion for creating beautiful and functional web applications.
