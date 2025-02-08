@@ -73,12 +73,20 @@ Passionate Front-End Developer honing skills at Masai School, specializing in HT
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
-<br/>
-<br/>
 
 <hr/>
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PRITAMALWAR/PRITAMALWAR/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+  <a href="https://github.com/PRITAMALWAR" target="_blank">Visit PRITAMALWAR's GitHub</a>
 </div>
 
 
