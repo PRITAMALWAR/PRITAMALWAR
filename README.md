@@ -10,8 +10,6 @@
 
 Skilled **Front-End Developer** with expertise in **HTML**, **CSS**, **JavaScript**, **React.js**, **Tailwind CSS**, **Chakra UI**, and **Firebase**. Currently refining skills at **Masai School**, passionate about building **dynamic, user-centric web applications**. Eager to contribute to innovative projects in a **collaborative, growth-focused environment** while continually improving through hands-on learning and problem-solving.
 
----
-
 
 ## 💻 Tech Stack ⚡
 
