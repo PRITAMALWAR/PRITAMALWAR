@@ -1,7 +1,8 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pritam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pritam!;+I'm+Passionate+Frontend+Developer!" />
 </h1>
+
 ## A Passionate Frontend Developer
 
 Welcome to my GitHub! I'm Pritam, a frontend developer with a passion for creating beautiful and functional web applications.
