@@ -4,6 +4,8 @@
 
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+## About me
+
 Skilled Front-End Developer with expertise in HTML, CSS, JavaScript, React.js, Tailwind CSS, Chakra UI, and Firebase, currently refining skills at Masai School. Passionate about building dynamic, user-centric web applications and constantly improving through hands-on learning and problem-solving. Eager to contribute to innovative projects in a collaborative, growth-focused environment.
 
 
