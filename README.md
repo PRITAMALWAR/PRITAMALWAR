@@ -1,6 +1,4 @@
-Here’s the updated GitHub README with the "About Me" section moved to the top:
 
-```markdown
 # Hey, I'm Pritam 👋
 
 ## A Passionate Frontend Developer
@@ -73,8 +71,3 @@ Passionate Front-End Developer honing skills at Masai School, specializing in HT
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-Thanks for stopping by! Feel free to explore my projects and don't hesitate to reach out if you want to collaborate or chat. 🚀
-```
-
-This version now has your "About Me" section placed at the very top, followed by the rest of the content. This should give your profile a strong, professional first impression! Let me know if you need further adjustments.
