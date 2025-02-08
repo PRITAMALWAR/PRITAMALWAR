@@ -1,8 +1,15 @@
+Here’s the updated GitHub README with the "About Me" section moved to the top:
+
+```markdown
 # Hey, I'm Pritam 👋
 
 ## A Passionate Frontend Developer
 
 Welcome to my GitHub! I'm Pritam, a frontend developer with a passion for creating beautiful and functional web applications.
+
+Passionate Front-End Developer honing skills at Masai School, specializing in HTML, CSS, JavaScript, React.js, and more. Skilled in building dynamic web applications with modern frameworks like Tailwind CSS and Chakra UI. Eager to collaborate, learn, and drive innovation in a growth-focused environment.
+
+---
 
 ### 👨‍💻 Languages & Tools I Use:
 
@@ -39,13 +46,14 @@ Welcome to my GitHub! I'm Pritam, a frontend developer with a passion for creati
 </a>
 ---
 
-<h2>⚡️ Where to find me</h2>
+### ⚡️ Where to find me
+
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/pritam-verma-45830328b/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
   </a>
 </p>
----
+
 ---
 
 ### 📊 GitHub Stats:
@@ -66,5 +74,7 @@ Welcome to my GitHub! I'm Pritam, a frontend developer with a passion for creati
 
 ---
 
-
 Thanks for stopping by! Feel free to explore my projects and don't hesitate to reach out if you want to collaborate or chat. 🚀
+```
+
+This version now has your "About Me" section placed at the very top, followed by the rest of the content. This should give your profile a strong, professional first impression! Let me know if you need further adjustments.
