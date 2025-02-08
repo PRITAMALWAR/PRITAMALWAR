@@ -2,6 +2,7 @@
 <h1 align="right">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pritam!;+I'm+Passionate+Frontend+Developer!" />
 </h1>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -14,7 +15,6 @@ Passionate Front-End Developer honing skills at Masai School, specializing in HT
 
 ### 👨‍💻 Languages & Tools I Use:
 
-<h2>🚀 Languages and Tools I Use</h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
