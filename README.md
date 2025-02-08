@@ -4,8 +4,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Welcome to my GitHub! I'm Pritam, a frontend developer with a passion for creating beautiful and functional web applications.
-Passionate Front-End Developer honing skills at Masai School, specializing in HTML, CSS, JavaScript, React.js, and more. Skilled in building dynamic web applications with modern frameworks like Tailwind CSS and Chakra UI. Eager to collaborate, learn, and drive innovation in a growth-focused environment.
+Skilled Front-End Developer with expertise in HTML, CSS, JavaScript, React.js, Tailwind CSS, Chakra UI, and Firebase, currently refining skills at Masai School. Passionate about building dynamic, user-centric web applications and constantly improving through hands-on learning and problem-solving. Eager to contribute to innovative projects in a collaborative, growth-focused environment.
 
 
 ## 💻 Tech Stack ⚡
