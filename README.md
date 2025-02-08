@@ -6,7 +6,7 @@
 Welcome to my GitHub! I'm Pritam, a frontend developer with a passion for creating beautiful and functional web applications.
 Passionate Front-End Developer honing skills at Masai School, specializing in HTML, CSS, JavaScript, React.js, and more. Skilled in building dynamic web applications with modern frameworks like Tailwind CSS and Chakra UI. Eager to collaborate, learn, and drive innovation in a growth-focused environment.
 
----
+
 
 ### 👨‍💻 Languages & Tools I Use:
 
@@ -41,7 +41,7 @@ Passionate Front-End Developer honing skills at Masai School, specializing in HT
 <a target="_blank" href="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" style="display: inline-block;">
   <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" alt="chakra-ui" width="100" height="42" />
 </a>
----
+
 
 ### ⚡️ Where to find me
 
@@ -51,22 +51,22 @@ Passionate Front-End Developer honing skills at Masai School, specializing in HT
   </a>
 </p>
 
----
+
 
 ### 📊 GitHub Stats:
 
 ![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
----
+
 
 ### 🏆 GitHub Streak:
 
 ![Pritam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRITAMALWAR&theme=dark&hide_border=false)
 
----
+
 
 ### 🌐 Top Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
