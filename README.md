@@ -42,6 +42,12 @@ Skilled **Front-End Developer** with expertise in **HTML**, **CSS**, **JavaScrip
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
   </a>
 </p>
+<p>
+  <a target="_blank" href="https://your-portfolio-link.com" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/portfolio-logo?style=for-the-badge&logo=portfolio&logoColor=white&color=%230a77b6" alt="portfolio" />
+  </a>
+</p>
+
 
 
 
