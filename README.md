@@ -1,4 +1,4 @@
-<h1> Listen ➔ Confirm ➔ Think ➔ Approach ➔ Feedback ➔ Outline ➔ Code ➔ Dry Run ➔ Analyze </h1>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pritam!;+I'm+Passionate+Frontend+Developer!" />
 </h1>
@@ -74,6 +74,7 @@ Skilled **Front-End Developer** with expertise in **HTML**, **CSS**, **JavaScrip
 </div>
 
 <hr/>
+<h3>Listen ➔ Confirm ➔ Think ➔ Approach ➔ Feedback ➔ Outline ➔ Code ➔ Dry Run ➔ Analyze </h3>
 
 
 
