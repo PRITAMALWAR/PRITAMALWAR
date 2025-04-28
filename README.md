@@ -74,7 +74,7 @@ Skilled **Front-End Developer** with expertise in **HTML**, **CSS**, **JavaScrip
 </div>
 
 <hr/>
-<h3>Listen ➔ Confirm ➔ Think ➔ Approach ➔ Feedback ➔ Outline ➔ Code ➔ Dry Run ➔ Analyze </h3>
+<h3 style="text:center">Listen ➔ Confirm ➔ Think ➔ Approach ➔ Feedback ➔ Outline ➔ Code ➔ Dry Run ➔ Analyze </h3>
 
 
 
