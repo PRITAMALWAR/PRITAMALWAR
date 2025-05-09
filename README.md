@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1KDCa8PuJKLtD3xsTzo-KtpqHdIk5JhiL/view">
+<img src="[https://drive.google.com/file/d/1KDCa8PuJKLtD3xsTzo-KtpqHdIk5JhiL/view](https://drive.google.com/file/d/1KDCa8PuJKLtD3xsTzo-KtpqHdIk5JhiL/view?usp=sharing)">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pritam!;+I'm+Passionate+Frontend+Developer!" />
 </h1>
