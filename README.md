@@ -82,7 +82,7 @@ Skilled **Front-End Developer** with expertise in **HTML**, **CSS**, **JavaScrip
   <button style="background:none; border:none; padding:0; cursor:pointer;">
     <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" 
          alt="Button Image" 
-         style="width:200px; height:auto;" />
+         style="width:100%; height:auto;" />
   </button>
 </a>
 
