@@ -82,6 +82,12 @@ With a knack for clean code, problem-solving, and quick adoption of Generative A
 </p>
 
 ---
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PRITAMALWAR" alt="PRITAMALWAR" />
+  </a>
+</p>
+<hr/>
 
 <!-- Footer SVG -->
 <p align="center">
