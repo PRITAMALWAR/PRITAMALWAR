@@ -11,7 +11,7 @@
 
 ## About Me
 
-Skilled **Front-End Developer** with expertise in **HTML**, **CSS**, **JavaScript**, **React.js**, **Tailwind CSS**, **Chakra UI**, and **Firebase**. Currently refining skills at **Masai School**, passionate about building **dynamic, user-centric web applications**. Eager to contribute to innovative projects in a **collaborative, growth-focused environment** while continually improving through hands-on learning and problem-solving.
+Passionate MERN Stack Developer skilled in React.js, JavaScript, MongoDB, Node.js, and modern UI tools like Tailwind CSS and Chakra UI. Currently honing my skills at Masai School, I thrive in dynamic, fast-paced environments where innovation and collaboration drive success. With a knack for clean code, problem-solving, and quick adoption of Generative AI tools, I’m committed to building scalable, user-focused web applications while continuously learning and evolving.
 
 
 
