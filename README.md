@@ -1,94 +1,81 @@
-<img src="[https://drive.google.com/file/d/1KDCa8PuJKLtD3xsTzo-KtpqHdIk5JhiL/view](https://drive.google.com/file/d/1KDCa8PuJKLtD3xsTzo-KtpqHdIk5JhiL/view?usp=sharing)">
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pritam!;+I'm+MERN-STACK+Developer!" />
-</h1>
-
-
-
+<!-- Center Header GIF (Google Drive links don't embed well in Markdown/GitHub) -->
 <p align="center">
-  <img align="right" alt="Coding" width="410" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <!-- Replace with a hosted image like Imgur or GitHub repo image -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&pause=1000&color=FF61B3&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+I'm+Pritam!;+I'm+MERN-STACK+Developer!" alt="Typing SVG">
 </p>
 
-## About Me
-
-Passionate MERN Stack Developer skilled in React.js, JavaScript, MongoDB, Node.js, and modern UI tools like Tailwind CSS and Chakra UI. Currently honing my skills at Masai School, I thrive in dynamic, fast-paced environments where innovation and collaboration drive success. With a knack for clean code, problem-solving, and quick adoption of Generative AI tools, I’m committed to building scalable, user-focused web applications while continuously learning and evolving.
-
-
-
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding gif" />
+</p>
 
 ---
+
+## 🧑‍💻 About Me
+
+🎯 I'm a **Passionate MERN Stack Developer** skilled in `React.js`, `JavaScript`, `MongoDB`, `Node.js`, and modern UI tools like `Tailwind CSS` and `Chakra UI`.  
+🎓 Currently learning at **Masai School**, I thrive in fast-paced, collaborative environments.  
+⚙️ Focused on building clean, scalable apps and rapidly learning **Generative AI** tools.  
+💡 Always ready to learn, build, and grow.
+
+---
+
 ## 💻 Tech Stack ⚡
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React JS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-%233F4955.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000?style=for-the-badge&logo=render&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api&logoColor=white)
 
+</div>
 
+---
 
+## 🌐 Connect with Me
 
-
-
-
-### ⚡️ Where to find me
-
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/pritam-verma-45830328b/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
- <a target="_blank" href="https://comfy-dodol-996be4.netlify.app/#" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/portfolio-logo?style=for-the-badge&logo=portfolio&logoColor=white&color=%230a77b6" alt="portfolio" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/pritam-verma-45830328b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://comfy-dodol-996be4.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
 
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRITAMALWAR&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRITAMALWAR&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&theme=radical&hide_border=false&layout=compact" />
+</p>
 
+---
 
-### 📊 GitHub Stats:
-
-![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-
-
-### 🏆 GitHub Streak:
-
-![Pritam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRITAMALWAR&theme=dark&hide_border=false)
-
-
-
-### 🌐 Top Languages:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br/>
-
-<hr/>
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
+    <img height='64' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
 </div>
 
-<hr/>
+---
 
-<a href="https://your-link.com" target="_blank">
-  <button style="background:none; border:none; padding:0; cursor:pointer;">
-    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" 
-         alt="Button Image" 
-         style="width:100%; height:auto;" />
-  </button>
-</a>
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="footer image" />
+</p>
