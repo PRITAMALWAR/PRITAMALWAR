@@ -17,7 +17,6 @@
 
 <p style="font-size: 16px;">
 Passionate <strong>MERN Stack Developer</strong> skilled in React.js, JavaScript, MongoDB, Node.js, and modern UI tools like Tailwind CSS and Chakra UI. Currently honing my skills at <strong>Masai School</strong>, I thrive in dynamic, fast-paced environments where innovation and collaboration drive success.
-
 With a knack for clean code, problem-solving, and quick adoption of Generative AI tools, I’m committed to building scalable, user-focused web applications while continuously learning and evolving.
 </p>
 
