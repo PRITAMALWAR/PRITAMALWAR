@@ -50,19 +50,17 @@ With a knack for clean code, problem-solving, and quick adoption of Generative A
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pritam-verma-45830328b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>
-  
+
   <a href="https://comfy-dodol-996be4.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=web&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Portfolio" width="40" />
   </a>
-  
+
   <a href="mailto:thepritamverma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" />
   </a>
 </p>
-
-
 
 ---
 
