@@ -90,6 +90,11 @@ With a knack for clean code, problem-solving, and quick adoption of Generative A
 </p>
 <hr/>
 
+<a href="https://github.com/PRITAMALWAR">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRITAMALWAR" alt="Pritam_Verma" />
+</a>
+
+
 <!-- Footer SVG -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" style="width:100%; height:auto;" />
