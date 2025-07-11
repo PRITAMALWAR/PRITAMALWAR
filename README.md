@@ -81,9 +81,6 @@ Passionate MERN Stack Developer skilled in React.js, JavaScript, MongoDB, Node.j
 </div>
 
 <hr/>
-<h3 style="text:center">Listen ➔ Confirm ➔ Think ➔ Approach ➔ Feedback ➔ Outline ➔ Code ➔ Dry Run ➔ Analyze </h3>
-
-
 
 <a href="https://your-link.com" target="_blank">
   <button style="background:none; border:none; padding:0; cursor:pointer;">
