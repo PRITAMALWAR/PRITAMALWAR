@@ -59,9 +59,10 @@ With a knack for clean code, problem-solving, and quick adoption of Generative A
   </a>
   
   <a href="mailto:thepritamverma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
