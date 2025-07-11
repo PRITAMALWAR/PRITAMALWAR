@@ -46,7 +46,7 @@ With a knack for clean code, problem-solving, and quick adoption of Generative A
   <img src="https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
----
+--- 
 
 ## 🌐 Where to Find Me
 <p>
