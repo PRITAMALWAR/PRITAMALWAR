@@ -3,7 +3,17 @@
 
 <!-- Centered Animated Heading -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pritam!;+I'm+MERN-STACK+Developer!" />
+  <span style="
+    font-size: 35px;
+    background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Righteous', cursive;
+    animation: fadeIn 2s ease-in-out infinite alternate;">
+    👋 Hi, I'm Pritam — MERN Stack Developer
+  </span>
+</h1>
+
 </h1>
 
 <!-- Animated GIF -->
