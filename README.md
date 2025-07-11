@@ -1,11 +1,10 @@
 <!-- Background wrapper -->
 <div style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); color: white; padding: 40px; font-family: Arial, sans-serif;">
 
-<!-- Centered Animated Heading -->
+<!-- Centered Animated Heading with Red-Black Theme -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pritam!;+I'm+MERN-STACK+Developer!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FF1C1C&center=true&vCenter=true&width=650&height=80&lines=Hi+There!+👋;I'm+Pritam!;MERN+Stack+Developer!;Welcome+to+my+profile!🚀" alt="Typing SVG" />
 </h1>
-
 
 <!-- Animated GIF -->
 <p align="center">
