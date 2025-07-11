@@ -3,8 +3,9 @@
 
 <!-- Centered Animated Heading with Red-Black Theme -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FF1C1C&center=true&vCenter=true&width=650&height=80&lines=Hi+There!+👋;I'm+Pritam!;MERN+Stack+Developer!;Welcome+to+my+profile!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=36&pause=1000&color=FF1C1C&center=true&vCenter=true&width=650&height=80&lines=Hi+There!+👋;I'm+Pritam!;MERN+Stack+Developer!;Welcome+to+my+profile!🚀" alt="Typing SVG" />
 </h1>
+
 
 <!-- Animated GIF -->
 <p align="center">
