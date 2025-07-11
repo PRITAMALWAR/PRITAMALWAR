@@ -14,8 +14,6 @@
   </span>
 </h1>
 
-</h1>
-
 <!-- Animated GIF -->
 <p align="center">
   <img alt="Coding" width="410" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
