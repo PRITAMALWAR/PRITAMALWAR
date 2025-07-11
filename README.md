@@ -83,16 +83,16 @@ With a knack for clean code, problem-solving, and quick adoption of Generative A
 </p>
 
 ---
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=PRITAMALWAR" alt="PRITAMALWAR" />
   </a>
 </p>
 <hr/>
 
-<a href="https://github.com/PRITAMALWAR">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRITAMALWAR" alt="Pritam_Verma" />
-</a>
+<p align="center" href="https://github.com/PRITAMALWAR">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRITAMALWAR" alt="Pritam_Verma" />
+</p>
 
 
 <!-- Footer SVG -->
