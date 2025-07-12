@@ -94,7 +94,7 @@ With a knack for clean code, problem-solving, and quick adoption of Generative A
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRITAMALWAR" alt="Pritam_Verma" />
 </p>
 
-<img style="width: 100%; height: 200px;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
+<!-- <img style="width: 100%; height: 200px;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt=""> -->
 
 <!-- Footer SVG -->
 <p align="center">
