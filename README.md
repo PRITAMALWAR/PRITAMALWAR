@@ -10,7 +10,7 @@
 
 <!-- Animated GIF -->
 <p align="center">
-  <img alt="Coding" width="800" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
+  <img alt="Coding" width="1200" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
 </p>
 
 
