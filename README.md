@@ -107,13 +107,3 @@ With a knack for clean code, problem-solving, and quick adoption of Generative A
 
 
 
-
-
-
-## Stats Available
-
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=PRITAMALWAR&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://streak-stats.demolab.com?user=PRITAMALWAR&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
-
-
