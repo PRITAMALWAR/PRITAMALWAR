@@ -4,165 +4,142 @@
 
 </div>
 
-<div align="center">
+<!-- Background wrapper -->
+<div style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); color: white; padding: 40px; font-family: Arial, sans-serif;">
+  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=36&pause=1000&color=FFD700&center=true&vCenter=true&width=750&height=80&lines=Hi+There!+👋;I'm+Pritam!;Full+Stack+Developer!;Welcome+to+my+profile!🚀" alt="Typing SVG" />
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hey+There!+I'm+Pritam+%F0%9F%91%8B;Building+the+Web%2C+One+Line+at+a+Time+%F0%9F%9A%80;MERN+Stack+%7C+Next.js+%7C+AI+Tools+%E2%9A%A1" alt="Typing SVG" />
 
-</div>
 
----
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<!-- Animated GIF -->
+<p align="center">
+  <img alt="Coding" width="1200" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
+</p>
 
+
+
+<!-- About Me Section -->
 ## 🧑‍💻 About Me
 
-```typescript
-const pritam = {
-  role: "Full Stack Developer",
-  school: "Masai School 🎓",
-  location: "India 🇮🇳",
-  stack: ["React", "Node.js", "MongoDB", "Express"],
-  currentlyLearning: ["Next.js", "PostgreSQL", "AI Tools"],
-  askMeAbout: ["Web Dev", "MERN Stack", "UI/UX", "Gen AI"],
-  funFact: "I debug with console.log and I'm proud of it 😄"
-};
-```
-
-- 🔭 Honing my skills at **Masai School**
-- 🌱 Currently deepening expertise in **Next.js & PostgreSQL**
-- ⚡ Quick adopter of **Generative AI tools** to boost productivity
-- 💬 Let's talk about **React, Node.js, MongoDB, or anything web!**
-- 📫 Reach me at **thepritamverma@gmail.com**
-
-<br clear="right"/>
+<p style="font-size: 16px;">
+Passionate <strong>MERN Stack Developer</strong> skilled in React.js, JavaScript, MongoDB, Node.js, and modern UI tools like Tailwind CSS and Chakra UI. Currently honing my skills at <strong>Masai School</strong>, I thrive in dynamic, fast-paced environments where innovation and collaboration drive success.
+With a knack for clean code, problem-solving, and quick adoption of Generative AI tools, I’m committed to building scalable, user-focused web applications while continuously learning and evolving.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
+<h3>Frontend</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chakra_UI-%233F4955.svg?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<h3>Backend</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-</details>
+<h3>Database</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br/>
+<h3>Deployment & Tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<h3>AI Tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</p>
 
-</details>
+<h3>Soft Skills</h3>
 
-<details open>
-<summary><b>🗄️ Database</b></summary>
-<br/>
+- Effective Communication  
+- Collaboration  
+- Code Review  
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🌐 Where to Find Me
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/pritam-verma-45830328b/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
+  <a target="_blank" href="https://comfy-dodol-996be4.netlify.app/#" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/portfolio-logo?style=for-the-badge&logo=portfolio&logoColor=white&color=%230a77b6" alt="portfolio" />
+  </a>
+  <a href="mailto:thepritamverma@gmail.com" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/email-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%230a77b6" alt="email" />
+  </a>
+</p>
 
-</details>
-
-<details open>
-<summary><b>🚀 DevOps & Tools</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI Tools I Use Daily</b></summary>
-<br/>
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![v0](https://img.shields.io/badge/v0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PRITAMALWAR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRITAMALWAR&theme=tokyonight&hide_border=true&background=0d1117&stroke=FFD700&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=666"/>
-
-</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=PRITAMALWAR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+## 🔥 GitHub Streak
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRITAMALWAR&theme=dark&hide_border=false"/>
+</p>
 
----
+## 🧮 Top Languages
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRITAMALWAR&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FFD700&line=FFD700&point=FF6B35" width="100%"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-verma-45830328b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://comfy-dodol-996be4.netlify.app/#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thepritamverma@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRITAMALWAR)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
 
 ---
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PRITAMALWAR" alt="PRITAMALWAR" />
+  </a>
+</p>
+<hr/>
 
-<div align="center">
+<p align="center" href="https://github.com/PRITAMALWAR">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRITAMALWAR" alt="Pritam_Verma" />
+</p>
 
-### 👁️ Profile Views
+<!-- <img style="width: 100%; height: 200px;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt=""> -->
 
-![Visitor Count](https://komarev.com/ghpvc/?username=PRITAMALWAR&color=FFD700&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- Footer SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" style="width:100%; height:auto;" />
+</p>
 
 </div>
 
-<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
-</div>
+
 
 ---
 
