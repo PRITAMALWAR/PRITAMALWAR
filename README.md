@@ -66,28 +66,6 @@
 
 ---
 
-# 🌱 Currently Working On
-
-- 🚀 Building Full Stack MERN Applications
-- 🌱 Learning Generative AI
-- 🤖 AI Chatbots & OpenAI API Integration
-- 💻 DSA & System Design
-- ⚡ Writing Clean & Scalable Code
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PRITAMALWAR&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -97,70 +75,38 @@
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PRITAMALWAR&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
+## Connect With Me
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRITAMALWAR&theme=tokyo-night"/>
+<a href="mailto:thepritamverma@gmail.com">
+  <img src="https://img.shields.io/badge/Email-thepritamverma%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<a href="tel:+918209318181">
+  <img src="https://img.shields.io/badge/Phone-%2B91--8209318181-0A66C2?style=for-the-badge&logo=googlemessages&logoColor=white" />
+</a>
 
 <a href="https://www.linkedin.com/in/pritam-verma-45830328b/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Pritam%20Verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/PRITAMALWAR" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="mailto:thepritamverma@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  <img src="https://img.shields.io/badge/GitHub-PRITAMALWAR-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://pritam-portfolio-com.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Website-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </p>
-
----
-
-# 📫 Contact Me
-
-📞 **Phone:** +91-8209318181
-
-📧 **Email:** thepritamverma@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/pritam-verma-45830328b/
-
-🌐 **Portfolio:** https://pritam-portfolio-com.netlify.app/
-
-🐙 **GitHub:** https://github.com/PRITAMALWAR
 
 ---
 
 <p align="center">
-
-### Thanks for visiting my profile ❤️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=700&color=36BCF7&lines=Thanks+for+visiting+my+GitHub+Profile!;Happy+Coding!;Let's+Connect+and+Build+Together!" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C6FF,50:0072FF,100:6A11CB&section=footer"/>
+---
 
