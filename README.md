@@ -1,45 +1,20 @@
-# <div align="center">
+<h1 align="center">
+  Hi 👋, I'm Pritam Verma
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pritam%20Verma&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Next.js%20%7C%20AI%20Enthusiast&descAlignY=60&descColor=ffffff"/>
+<h3 align="center">
+🚀 Full Stack MERN Developer | Next.js | React | Node.js | TypeScript | Generative AI
+</h3>
 
-# Hi 👋, I'm Pritam Verma
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Developer;Building+Scalable+Web+Applications;Exploring+Generative+AI+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%9A%80" />
+</p>
 
-### 🚀 Full Stack MERN Developer | Next.js Developer | AI Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=F7C52D&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;React.js+%7C+Next.js+Developer;Node.js+%7C+Express.js+Developer;Generative+AI+Enthusiast;Always+Learning+New+Technologies" />
-
-<img src="https://komarev.com/ghpvc/?username=PRITAMALWAR&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-💻 Passionate **Full Stack MERN Developer** focused on building scalable and user-friendly web applications.
-
-🚀 Experienced in developing modern applications using **React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, SQL, and TypeScript.**
-
-🤖 Enthusiastic about **Generative AI**, **OpenAI API Integration**, **Prompt Engineering**, and AI-powered applications.
-
-🎯 I enjoy solving real-world problems through technology, writing clean, maintainable code, and continuously learning new tools and frameworks.
-
----
-
-# 📌 Profile Summary
-
-Full Stack MERN Developer with strong knowledge of **React.js, Next.js, Node.js, Express.js, TypeScript, MongoDB, SQL, and PostgreSQL.**
-
-Experienced in building:
-
-* Responsive Full Stack Applications
-* Secure Authentication Systems
-* REST APIs
-* Optimized Backend Services
-* AI-powered Web Applications
-* Modern UI/UX Interfaces
-
-Passionate about building scalable software and continuously improving skills in **Generative AI** and modern web technologies.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PRITAMALWAR&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/PRITAMALWAR?style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/stars/PRITAMALWAR?style=for-the-badge&color=yellow" />
+</p>
 
 ---
 
