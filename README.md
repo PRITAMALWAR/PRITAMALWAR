@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Pritam Verma</h1>
 
 <h3 align="center">
@@ -128,4 +128,4 @@ Passionate about solving real-world problems, writing clean and maintainable cod
 💼 <b>LinkedIn:</b> https://www.linkedin.com/in/pritam-verma-45830328b/
 
 </p>
-```
+
