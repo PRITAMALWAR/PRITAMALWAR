@@ -1,105 +1,112 @@
-# Hi, I'm Pritam Verma
+# 👋 Hi, I'm Pritam Verma
 
-<h3 align="center">Full Stack MERN Developer • React • Next.js • Node.js • TypeScript • Generative AI</h3>
+Full Stack MERN Developer passionate about building scalable web applications, AI-powered solutions, and clean user experiences.
+
+---
+
+# 🚀 About Me
+
+I'm a **Full Stack MERN Developer** with strong expertise in modern JavaScript technologies including **React.js, Next.js, Node.js, Express.js, TypeScript, MongoDB, PostgreSQL, and SQL**.
+
+I enjoy transforming ideas into real-world applications by developing secure REST APIs, responsive frontends, and scalable backend architectures. I'm also actively exploring **Generative AI**, **OpenAI API integration**, and intelligent chatbot development.
+
+* 🔭 Currently building Full Stack & AI-powered applications
+* 🌱 Learning **Generative AI**, **LLMs**, and advanced backend architecture
+* 💡 Love solving real-world problems through technology
+* 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, PostgreSQL, TypeScript**
+* ⚡ Always focused on writing clean, scalable, and maintainable code
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=850&color=36BCF7&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js;Generative+AI+Enthusiast;Always+Learning+New+Things" />
+<a href="mailto:thepritamverma@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pritam-verma-45830328b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PRITAMALWAR" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
+
+📧 **Email:** [thepritamverma@gmail.com](mailto:thepritamverma@gmail.com)
+
+📱 **Phone:** +91-8209318181
+
+🌍 **Portfolio:** *Coming Soon*
+
+---
+
+# 💻 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css,tailwind" />
+</p>
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
+
+---
+
+## AI & APIs
+
+* 🤖 Generative AI
+* OpenAI API Integration
+* Prompt Engineering
+* AI Chatbots
+
+---
+
+## Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,npm,vscode" />
+</p>
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-<a href="mailto:thepritamverma@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/pritam-verma-45830328b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/PRITAMALWAR"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PRITAMALWAR&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# About Me
-
-Full Stack MERN Developer with strong knowledge of **React.js, Next.js, Node.js, Express.js, TypeScript, MongoDB, SQL, and PostgreSQL**.
-
-Experienced in building secure full-stack web applications with authentication, REST APIs, responsive interfaces, and optimized backend services.
-
-Passionate about solving real-world problems through technology, writing clean and scalable code, and continuously improving skills in **Generative AI** and modern web development.
-
----
-
-# Contact
-
-| | |
-|---|---|
-| **Name** | Pritam Verma |
-| **Phone** | +91-8209318181 |
-| **Email** | thepritamverma@gmail.com |
-| **LinkedIn** | https://www.linkedin.com/in/pritam-verma-45830328b/ |
-| **GitHub** | https://github.com/PRITAMALWAR |
-| **Portfolio** | Coming Soon |
-
----
-
-# Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css,tailwind"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
-</p>
-
-### AI Technologies
-
-- Generative AI
-- OpenAI API Integration
-- Prompt Engineering
-- AI Chatbots
-
-### Tools & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,npm,vscode"/>
-</p>
-
----
-
-# Soft Skills
-
-- Effective Communication
-- Requirements Analysis
-- Collaboration
-- Problem Solving
-- Code Review
-
----
-
-# GitHub Statistics
+# 🔥 GitHub Streak
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PRITAMALWAR&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PRITAMALWAR&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=PRITAMALWAR&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# Most Used Languages
-
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# Activity Graph
+# 📊 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRITAMALWAR&theme=tokyo-night&hide_border=true"/>
@@ -107,28 +114,73 @@ Passionate about solving real-world problems through technology, writing clean a
 
 ---
 
-# GitHub Trophies
+# 🎯 What I Do
+
+✅ Full Stack MERN Development
+
+✅ Responsive Web Applications
+
+✅ REST API Development
+
+✅ Authentication (JWT & OAuth)
+
+✅ Database Design
+
+✅ Performance Optimization
+
+✅ AI Chatbot Development
+
+✅ OpenAI API Integration
+
+---
+
+# 💡 Soft Skills
+
+* Effective Communication
+* Team Collaboration
+* Requirements Analysis
+* Problem Solving
+* Code Review
+* Continuous Learning
+
+---
+
+# 🏆 Current Focus
+
+* 🚀 Advanced Full Stack Development
+* 🤖 Generative AI Applications
+* 📚 System Design
+* ☁ Cloud Deployment
+* ⚡ Scalable Backend Architecture
+
+---
+
+# 📫 Let's Connect
+
+If you're looking for a **Full Stack MERN Developer** to collaborate on innovative projects, feel free to reach out.
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PRITAMALWAR&theme=algolia&no-frame=true"/>
+
+<a href="mailto:thepritamverma@gmail.com">
+<img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pritam-verma-45830328b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/PRITAMALWAR">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-# Profile Summary Card
-
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRITAMALWAR&theme=tokyonight"/>
+
+### ⭐ *"Code. Learn. Build. Innovate."* ⭐
+
+![](https://komarev.com/ghpvc/?username=PRITAMALWAR\&style=for-the-badge\&color=blue)
+
 </p>
-
----
-
-<h3 align="center">Let's Build Something Amazing Together</h3>
-
-<p align="center">
-<a href="mailto:thepritamverma@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/pritam-verma-45830328b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/></a>
-<a href="https://github.com/PRITAMALWAR"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
