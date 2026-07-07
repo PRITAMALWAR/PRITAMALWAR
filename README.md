@@ -1,23 +1,3 @@
-<h1 align="center">
-  Hi 👋, I'm Pritam Verma
-</h1>
-
-<h3 align="center">
-🚀 Full Stack MERN Developer | Next.js | React | Node.js | TypeScript | Generative AI
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Developer;Building+Scalable+Web+Applications;Exploring+Generative+AI+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=PRITAMALWAR&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/PRITAMALWAR?style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/stars/PRITAMALWAR?style=for-the-badge&color=yellow" />
-</p>
-
----
-
 ```markdown
 <h1 align="center">Hi 👋, I'm Pritam Verma</h1>
 
