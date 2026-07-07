@@ -9,7 +9,7 @@
 
 ---
 
-# 🚀 Languages & Tools
+# Languages & Tools
 
 <p align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
