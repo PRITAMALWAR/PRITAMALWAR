@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Pritam Verma</h1>
 
 <h3 align="center">
@@ -186,4 +186,4 @@ I'm a passionate and result-oriented **Full Stack MERN Developer** with expertis
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
 
 </p>
-```
+
