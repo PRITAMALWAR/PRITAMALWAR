@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Developer;Building+Scalable+Web+Applications;Exploring+Generative+AI+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;Fullstack+Developer;Building+Scalable+Web+Applications;Exploring+Generative+AI;Always+Learning+Something+New" />
 </p>
 
 ---
@@ -102,11 +102,8 @@
 </p>
 
 ---
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=700&color=36BCF7&lines=Thanks+for+visiting+my+GitHub+Profile!;Happy+Coding!;Let's+Connect+and+Build+Together!" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C6FF,50:0072FF,100:6A11CB&section=footer"/>
----
 
