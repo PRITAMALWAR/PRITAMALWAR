@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Pritam Verma</h1>
 
 <p align="center">
@@ -100,4 +100,4 @@ A passionate and result-oriented Full Stack MERN Developer with expertise in bui
 🌐 Portfolio: **Add your portfolio link here**
 
 </p>
-```
+
