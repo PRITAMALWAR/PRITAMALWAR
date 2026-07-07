@@ -12,19 +12,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Developer;Building+Scalable+Web+Applications;Exploring+Generative+AI+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%9A%80" />
 </p>
 
-
-# 👨‍💻 About Me
-
-I'm a passionate and result-oriented **Full Stack MERN Developer** with expertise in building scalable, responsive, and secure web applications using modern technologies.
-
-💡 I enjoy solving real-world problems through technology, writing clean & maintainable code, and continuously learning new technologies.
-
-- 🚀 Full Stack MERN Developer
-- 💻 Strong in React.js, Next.js, Node.js & TypeScript
-- 🌱 Currently exploring Generative AI & Prompt Engineering
-- ⚡ Passionate about scalable architecture
-- 📚 Always learning something new
-
 ---
 
 # 🚀 Languages & Tools
