@@ -1,11 +1,6 @@
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=220&section=header&text=Pritam%20Verma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
-
+<h1 align="center"> <font color="red">Hi 👋, I'm Pritam Verma</font> </h1>
 <h3 align="center">
-🚀 Full Stack MERN Developer | Next.js | React | Node.js | TypeScript | Generative AI
+ Full Stack MERN Developer | Next.js | React | Node.js | TypeScript | Generative AI
 </h3>
 
 <p align="center">
