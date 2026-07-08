@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;Fullstack+Developer;Building+Scalable+Web+Applications;Exploring+Generative+AI;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2500&pause=1200&color=22C55E&center=true&vCenter=true&width=1100&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;Node+Developer;Building+Scalable+Applications;Generative+AI+Explorer" />
 </p>
 
 ---
