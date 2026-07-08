@@ -1,4 +1,9 @@
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2500&pause=1200&color=22C55E&center=true&vCenter=true&width=1100&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+Developer;Building+Scalable+Applications;Generative+AI+Explorer" />
+</p>
+
+
+<p align="center">
   <img
     src="https://drive.google.com/uc?export=view&id=1knOBZmmtxy1WFEQqV1YqLoAMGByETwF8"
     alt="Pritam Verma Banner"
@@ -7,9 +12,6 @@
 </p>
 
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2500&pause=1200&color=22C55E&center=true&vCenter=true&width=1100&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;Node+Developer;Building+Scalable+Applications;Generative+AI+Explorer" />
-</p>
 
 ---
 
@@ -102,7 +104,6 @@
 
 ---
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=700&color=36BCF7&lines=Thanks+for+visiting+my+GitHub+Profile!;Happy+Coding!;Let's+Connect+and+Build+Together!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&duration=2800&pause=1200&color=FF3131&center=true&vCenter=true&width=1200&lines=Thanks+for+Visiting!;Happy+Coding!;Keep+Learning+%F0%9F%9A%80" />
 </p>
-
 
