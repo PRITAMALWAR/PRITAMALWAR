@@ -1,7 +1,11 @@
-<h1 align="center"> <font color="red">Hi 👋, I'm Pritam Verma</font> </h1>
-<h3 align="center">
- Full Stack MERN Developer | Next.js | React | Node.js | TypeScript | Generative AI
-</h3>
+<p align="center">
+  <img
+    src="https://drive.google.com/uc?export=view&id=1knOBZmmtxy1WFEQqV1YqLoAMGByETwF8"
+    alt="Pritam Verma Banner"
+    width="100%"
+  />
+</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;Fullstack+Developer;Building+Scalable+Web+Applications;Exploring+Generative+AI;Always+Learning+Something+New" />
