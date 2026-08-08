@@ -23,9 +23,13 @@
 
 <img src="https://img.shields.io/badge/-TypeScript-FF0000?style=for-the-badge&logo=typescript"/>
 
+<img src="https://img.shields.io/badge/-python-FF0000?style=for-the-badge&logo=python"/>
+
 <img src="https://img.shields.io/badge/-React-FF0000?style=for-the-badge&logo=react"/>
 
 <img src="https://img.shields.io/badge/-Next.js-FF0000?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/-FastAPI-FF0000?style=for-the-badge&logo=FastAPI"/>
 
 <img src="https://img.shields.io/badge/-Redux-FF0000?style=for-the-badge&logo=redux"/>
 
