@@ -71,12 +71,14 @@
 
 ---
 
-# GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=PRITAMALWAR&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=PRITAMALWAR&theme=tokyonight&hide_border=true"
+    width="450"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -105,6 +107,21 @@
 </a>
 
 </p>
+
+
+---
+
+# 📊 Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PRITAMALWAR&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+    width="300"
+    height="150"
+    alt="Most Used Languages"
+  />
+</p>
+
 
 ---
 <p align="center">
