@@ -18,6 +18,12 @@
 # Languages & Tools
 
 <p align="center">
+  
+<img src="https://img.shields.io/badge/-GenAI-FF0000?style=for-the-badge&logo=GenAI"/>
+
+<img src="https://img.shields.io/badge/-VectorDB-FF0000?style=for-the-badge&logo=VectorDB"/>
+
+<img src="https://img.shields.io/badge/-RAG-FF0000?style=for-the-badge&logo=RAG"/>
 
 <img src="https://img.shields.io/badge/-JavaScript-FF0000?style=for-the-badge&logo=javascript"/>
 
